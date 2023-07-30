@@ -1,9 +1,0 @@
-business 
-entertainment
-general
-health
-science
-sports
-technology
-rgba(245,208,66,1)
-7398823325
